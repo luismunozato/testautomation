@@ -1,0 +1,9 @@
+D:\tutoring\selenium\WordPressAutomation\WordPressAutomation\bin\Debug\WordPressAutomation.dll
+D:\tutoring\selenium\WordPressAutomation\WordPressAutomation\bin\Debug\WordPressAutomation.pdb
+D:\tutoring\selenium\WordPressAutomation\WordPressAutomation\bin\Debug\WebDriver.dll
+D:\tutoring\selenium\WordPressAutomation\WordPressAutomation\bin\Debug\WebDriver.Support.dll
+D:\tutoring\selenium\WordPressAutomation\WordPressAutomation\bin\Debug\WebDriver.xml
+D:\tutoring\selenium\WordPressAutomation\WordPressAutomation\bin\Debug\WebDriver.Support.xml
+D:\tutoring\selenium\WordPressAutomation\WordPressAutomation\obj\Debug\WordPressAutomation.csprojResolveAssemblyReference.cache
+D:\tutoring\selenium\WordPressAutomation\WordPressAutomation\obj\Debug\WordPressAutomation.dll
+D:\tutoring\selenium\WordPressAutomation\WordPressAutomation\obj\Debug\WordPressAutomation.pdb

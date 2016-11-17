@@ -1,0 +1,9 @@
+D:\tutoring\selenium\WordPressAutomation\WordPressTest\bin\Debug\WordPressTest.dll
+D:\tutoring\selenium\WordPressAutomation\WordPressTest\bin\Debug\WordPressTest.pdb
+D:\tutoring\selenium\WordPressAutomation\WordPressTest\bin\Debug\WordPressAutomation.dll
+D:\tutoring\selenium\WordPressAutomation\WordPressTest\bin\Debug\WebDriver.dll
+D:\tutoring\selenium\WordPressAutomation\WordPressTest\bin\Debug\WordPressAutomation.pdb
+D:\tutoring\selenium\WordPressAutomation\WordPressTest\bin\Debug\WebDriver.xml
+D:\tutoring\selenium\WordPressAutomation\WordPressTest\obj\Debug\WordPressTest.csprojResolveAssemblyReference.cache
+D:\tutoring\selenium\WordPressAutomation\WordPressTest\obj\Debug\WordPressTest.dll
+D:\tutoring\selenium\WordPressAutomation\WordPressTest\obj\Debug\WordPressTest.pdb
